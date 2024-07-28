@@ -1,2 +1,2 @@
 # pairsTrading
-analysis pairsTrading strategy TSE (Tehran Stock Exchange)
+analysis pairsTrading strategy on TSE (Tehran Stock Exchange)

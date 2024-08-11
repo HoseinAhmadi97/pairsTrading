@@ -1,4 +1,4 @@
-Dependencies: Numpy; Pandas; Matplotlib and Requests (for fetching TSE price data), Yfinance, yfinance.
+Dependencies: Numpy; Pandas; Matplotlib and Requests (for fetching TSE price data), Yfinance.
 
 #### - Main Jupyters:
 [pairsTrading](/PairsTrading.ipynb) - A simple pairs trading strategy. The signal is given by the ratio of prices on the z score. because the calculation is very long, some output of the calculation is saved in the outputs directory which is used in the next steps in the file.
